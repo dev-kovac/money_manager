@@ -1,0 +1,30 @@
+# virtual env
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac stuff
+.DS_Store
+
+# streamlit
+.streamlit/
+
+# logs
+*.log
+
+# sqlite db (optional if you don’t want to track it)
+*.db
+
+# secrets
+.env
+
+*.csv
+
+services.py
+seed.py
+README_DEVIN.md
+money_manager_main.py
+main.py
